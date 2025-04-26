@@ -1,0 +1,7 @@
+# Core dependencies
+opencv-python==4.9.0.80  # Image processing (cv2)
+matplotlib==3.8.0        # Image display (plt)
+
+# Optional (for enhanced functionality)
+numpy==1.26.0           # Required by OpenCV
+Pillow==10.0.0          # Alternative image handling
