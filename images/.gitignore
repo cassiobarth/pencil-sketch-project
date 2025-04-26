@@ -1,0 +1,24 @@
+[200~# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output images (if you don't want to track generated sketches)
+/images/output_*
+/dog_sketch.jpg
+
+# System files
+.DS_Store
+Thumbs.db
